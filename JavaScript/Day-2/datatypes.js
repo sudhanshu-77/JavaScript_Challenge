@@ -1,7 +1,10 @@
 // Data Types in Js
 
+
 // 1. Primitive --> 7
 // Number, String, Boolean, Undefined, Null, BigInt,Symbol
+
+
 
 // Number
 
