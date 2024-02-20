@@ -30,6 +30,7 @@ while(i<=5){
     i++;
 }
 
+
 // 3. do-while loop --> always run 1 time and then check conditions
 let i = 1;
 do{
