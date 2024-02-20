@@ -148,6 +148,8 @@ if(num%2 === 0){
 
 // syntax --> rules
 
+
+
 // 3. else-if Statements --> used for multiple conditions
 
 let mode = "green";
