@@ -1,5 +1,5 @@
 {
-  "name": "js-s",
+  "name": "Js_Challenge",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudhanshu-77/js-Practice.git"
+    "url": "git+https://github.com/sudhanshu-77/JavaScript_Challenge/.git"
   },
   "author": "Sudhanshu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sudhanshu-77/js-Practice/issues"
+    "url": "https://github.com/sudhanshu-77/JavaScript_Challenge//issues"
   },
-  "homepage": "https://github.com/sudhanshu-77/js-Practice#readme"
+  "homepage": "https://github.com/sudhanshu-77/JavaScript_Challenge/#readme"
 }
