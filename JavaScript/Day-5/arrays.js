@@ -1,3 +1,4 @@
+
 // Arrays in Js --> linear way to store (Collections of items)
 // e.g -> let info = ["ravi",78,"Delhi"]; --> no preferred
 // Arrays are mutable in Js
