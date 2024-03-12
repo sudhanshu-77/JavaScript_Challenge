@@ -63,7 +63,7 @@ box.textContent = "<h1> Hello </h1>" ;
 
 // Event Listener
 
-var bulb = document.querySelector(".bulb1");
+var bulb = document.querySelector(".bulb");
 var btn = document.querySelector("button");
 
 var flag = 0
