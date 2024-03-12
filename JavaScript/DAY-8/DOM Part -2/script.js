@@ -33,4 +33,18 @@ class1.innerText = "Hellooo";
 /* Insert Elements : 
  new element add is a two step Process 1st create an element & 2nd add an element. */
 
- 
+  let newBtn = document.createElement("button");
+  newBtn.innerText = "click me";
+  console.log(newBtn);
+
+  let div2 = document.querySelector("#box2");
+  div2.append(newBtn);
+
+  div2.prepend(newBtn);
+
+  div2.before(newBtn);
+
+  div2.after(newBtn);
+
+let para = document.querySelector("p");
+para.remove();

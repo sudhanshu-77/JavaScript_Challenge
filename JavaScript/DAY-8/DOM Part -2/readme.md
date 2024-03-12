@@ -17,3 +17,5 @@
 
 ### Delete Elements :
 * node.remove() //removes the node
+
+#### What is appendChild() and removeChild() ?
