@@ -1,1 +1,1 @@
-# JavaScript_Challenge
+# JavaScript Daywise Learning
